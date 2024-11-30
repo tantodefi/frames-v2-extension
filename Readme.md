@@ -1,0 +1,1 @@
+Turning https://github.com/farcasterxyz/frames-v2-demo into a [scaffold eth2 extension](https://scaffoldeth.io/extensions)
